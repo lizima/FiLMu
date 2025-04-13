@@ -1,6 +1,6 @@
 # FiLMu
 
-This repository contains the source code and demo for our project FiLMu.
+This repository contains the source code and demo for our project **FiLMu**.
 
 ---
 
@@ -8,15 +8,16 @@ This repository contains the source code and demo for our project FiLMu.
 
 This repository is currently under construction.  
 - 🧱 **Codebase**: In development  
+  > Full code and pretrained checkpoints will be released in the future.
 - 🌐 **Demo page**: In development  
-- 📅 **Expected completion date**: April 17, 2025
+  > Expected completion date: **April 17, 2025**
 
 ---
 
-## 🎧 Qualitative Captioning Examples (for Paper Review)
+## 🎧 Qualitative Captioning Examples (Related to Section 4.2 of the Paper)
 
-To show the qualitative results mentioned in our paper (Section 4.2),  
-please refer to the examples under [`demo/caption/examples`](./demo/caption/examples).
+To supplement the analysis in **Section 4.2** of our paper,  
+we provide five illustrative examples in [`demo/caption`](./demo/caption).
 
 Each folder `example{i}` (i = 1–5) contains:
 - `audio.wav`: the input audio sample
@@ -29,36 +30,36 @@ Each folder `example{i}` (i = 1–5) contains:
 ### 🔍 Quick Access
 
 #### 📂 Example 1
-- 🎵 [`audio.wav`](./demo/caption/examples/example1/audio.wav)  
+- 🎵 [`audio.wav`](./demo/caption/example1/audio.wav)  
 - 📄 Captions:  
-  - [`result_T1`](./demo/caption/examples/example1/result_T1)  
-  - [`result_T4`](./demo/caption/examples/example1/result_T4)  
-  - [`result_mullama`](./demo/caption/examples/example1/result_mullama)
+  - [`result_T1`](./demo/caption/example1/result_T1)  
+  - [`result_T4`](./demo/caption/example1/result_T4)  
+  - [`result_mullama`](./demo/caption/example1/result_mullama)
 
 #### 📂 Example 2
-- 🎵 [`audio.wav`](./demo/caption/examples/example2/audio.wav)  
+- 🎵 [`audio.wav`](./demo/caption/example2/audio.wav)  
 - 📄 Captions:  
-  - [`result_T1`](./demo/caption/examples/example2/result_T1)  
-  - [`result_T4`](./demo/caption/examples/example2/result_T4)  
-  - [`result_mullama`](./demo/caption/examples/example2/result_mullama)
+  - [`result_T1`](./demo/caption/example2/result_T1)  
+  - [`result_T4`](./demo/caption/example2/result_T4)  
+  - [`result_mullama`](./demo/caption/example2/result_mullama)
 
 #### 📂 Example 3
-- 🎵 [`audio.wav`](./demo/caption/examples/example3/audio.wav)  
+- 🎵 [`audio.wav`](./demo/caption/example3/audio.wav)  
 - 📄 Captions:  
-  - [`result_T1`](./demo/caption/examples/example3/result_T1)  
-  - [`result_T4`](./demo/caption/examples/example3/result_T4)  
-  - [`result_mullama`](./demo/caption/examples/example3/result_mullama)
+  - [`result_T1`](./demo/caption/example3/result_T1)  
+  - [`result_T4`](./demo/caption/example3/result_T4)  
+  - [`result_mullama`](./demo/caption/example3/result_mullama)
 
 #### 📂 Example 4
-- 🎵 [`audio.wav`](./demo/caption/examples/example4/audio.wav)  
+- 🎵 [`audio.wav`](./demo/caption/example4/audio.wav)  
 - 📄 Captions:  
-  - [`result_T1`](./demo/caption/examples/example4/result_T1)  
-  - [`result_T4`](./demo/caption/examples/example4/result_T4)  
-  - [`result_mullama`](./demo/caption/examples/example4/result_mullama)
+  - [`result_T1`](./demo/caption/example4/result_T1)  
+  - [`result_T4`](./demo/caption/example4/result_T4)  
+  - [`result_mullama`](./demo/caption/example4/result_mullama)
 
 #### 📂 Example 5
-- 🎵 [`audio.wav`](./demo/caption/examples/example5/audio.wav)  
+- 🎵 [`audio.wav`](./demo/caption/example5/audio.wav)  
 - 📄 Captions:  
-  - [`result_T1`](./demo/caption/examples/example5/result_T1)  
-  - [`result_T4`](./demo/caption/examples/example5/result_T4)  
-  - [`result_mullama`](./demo/caption/examples/example5/result_mullama)
+  - [`result_T1`](./demo/caption/example5/result_T1)  
+  - [`result_T4`](./demo/caption/example5/result_T4)  
+  - [`result_mullama`](./demo/caption/example5/result_mullama)
