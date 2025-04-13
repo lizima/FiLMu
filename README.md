@@ -8,13 +8,13 @@ This repository contains the source code and demo for our project **FiLMu**.
 
 This repository is currently under construction.  
 - 🧱 **Codebase**: In development  
-  > Full code and pretrained checkpoints will be released in the future.
+  > Full code and checkpoints will be released in the future.
 - 🌐 **Demo page**: In development  
   > Expected completion date: **April 17, 2025**
 
 ---
 
-## 🎧 Qualitative Captioning Examples (Related to Section 4.2 of the Paper)
+## 🎧 Qualitative Captioning Examples (for Paper Review)
 
 To supplement the analysis in **Section 4.2** of our paper,  
 we provide five illustrative examples in [`demo/caption`](./demo/caption).
