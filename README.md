@@ -10,7 +10,7 @@ This repository is currently under construction.
 - 🧱 **Codebase**: In development  
   > Full code and checkpoints will be released in the future.
 - 🌐 **Demo page**: In development  
-  > Expected completion date: **April 17, 2025**
+  > Expected completion date: **April 21, 2025**
 
 ---
 
