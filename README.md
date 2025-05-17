@@ -9,7 +9,7 @@ This repository contains the source code and demo for our project **FiLMu**.
 This repository is currently under construction.  
 - 🧱 **Codebase**: In development  
   > Full code and checkpoints will be released in the future.
-- 🌐 **Demo page**: In development  
+- 🌐 **Demo page**: https://ismir2025-filmu.github.io/
   > Expected completion date: **May 15, 2025**
 
 ---
